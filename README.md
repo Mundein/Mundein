@@ -1,7 +1,7 @@
 # Data Driven • Operations Focused
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&duration=3500&pause=1000&color=4285F4&center=true&vCenter=true&width=750&lines=Data+Analyst+%7C+Turning+Data+Into+Strategy;Operations+Leader+%7C+Optimizing+Processes;Looker+%E2%80%A2+SQL+%E2%80%A2+Python+%E2%80%A2+Process+Improvement" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&duration=3500&pause=1000&color=4285F4&center=true&vCenter=true&width=750&lines=Data+Analyst+%7C+Turning+Data+Into+Strategy;Operations+Leader+%7C+Optimizing+Processes;Looker+%E2%80%A2+SQL+%E2%80%A2+Python+%E2%80%A2+Process+Improvement" alt="" />
 </a>
 
 ---
@@ -33,12 +33,18 @@ I build dashboards that teams actually use and optimize the backend operations k
 
 ### 📉 My GitHub Analytics (Real-Time Data)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mundein&layout=compact&theme=nord&hide_border=true&langs_count=6" alt="Top Languages Overview" />
+<span>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mundein&layout=compact&theme=nord&hide_border=true&langs_count=6" alt="" />
+</span>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mundein&show_icons=true&theme=nord&hide_border=true" alt="Activity Overview" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mundein&theme=nord&hide_border=true" alt="Contribution Streak" />
+<span>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mundein&show_icons=true&theme=nord&hide_border=true" alt="" />
+</span>
+<span>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mundein&theme=nord&hide_border=true" alt="" />
+</span>
 
 <br/><br/>
 
@@ -49,12 +55,14 @@ I build dashboards that teams actually use and optimize the backend operations k
 ### 🌐 Let's Connect
 
 <a href="https://linkedin.com/in/michaelwhisenand" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="" />
 </a>
 <a href="https://mwhisenand.com" target="_blank">
-  <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Mundein&label=Profile%20views&color=4285F4&style=flat" alt="Traffic Monitor" />
+<span>
+  <img src="https://komarev.com/ghpvc/?username=Mundein&label=Profile%20views&color=4285F4&style=flat" alt="" />
+</span>
